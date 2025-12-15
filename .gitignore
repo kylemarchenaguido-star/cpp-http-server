@@ -1,0 +1,13 @@
+# Windows
+*.exe
+*.dll
+
+# Build artifacts
+build/
+*.o
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
