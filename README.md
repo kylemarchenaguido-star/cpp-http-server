@@ -1,1 +1,1 @@
-idk kek is just a library to host a http server, very simple
+This project implements a simple Windows-based server application in C++ using the WinSock2 (ws2_32) library. It handles TCP socket initialization, client connection acceptance, and bidirectional data communication over a network. Designed as a foundational networking project to demonstrate low-level socket programming concepts on the Windows platform.
